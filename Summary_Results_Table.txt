@@ -1,0 +1,23 @@
+
+Call:
+lm(formula = FA_Score ~ fv.fm * Position, data = final_df)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.009792 -0.002905 -0.001026  0.004139  0.010807 
+
+Coefficients:
+                       Estimate Std. Error t value Pr(>|t|)    
+(Intercept)           1.037e+00  1.147e-02  90.455   <2e-16 ***
+fv.fm                -2.969e-03  2.032e-02  -0.146    0.885    
+PositionMiddle       -1.352e-03  1.540e-02  -0.088    0.931    
+PositionBottom       -8.107e-05  1.757e-02  -0.005    0.996    
+fv.fm:PositionMiddle -4.335e-03  2.702e-02  -0.160    0.874    
+fv.fm:PositionBottom  1.801e-05  2.900e-02   0.001    1.000    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.006078 on 24 degrees of freedom
+Multiple R-squared:  0.1002,	Adjusted R-squared:  -0.08721 
+F-statistic: 0.5348 on 5 and 24 DF,  p-value: 0.7479
+

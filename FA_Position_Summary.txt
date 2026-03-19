@@ -1,0 +1,9 @@
+            Df    Sum Sq   Mean Sq F value Pr(>F)
+Position     2 0.0000910 4.551e-05   1.374   0.27
+Residuals   27 0.0008944 3.313e-05               
+# A tibble: 3 × 7
+  Position     n Mean_FA      SD      SE CI_lower CI_upper
+  <fct>    <int>   <dbl>   <dbl>   <dbl>    <dbl>    <dbl>
+1 Top         10    1.04 0.00374 0.00118     1.03     1.04
+2 Middle      10    1.03 0.00695 0.00220     1.03     1.04
+3 Bottom      10    1.04 0.00609 0.00193     1.03     1.04

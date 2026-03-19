@@ -1,0 +1,6 @@
+# A tibble: 3 × 7
+  Position     n Mean_FvFm     SD     SE CI_lower CI_upper
+  <fct>    <int>     <dbl>  <dbl>  <dbl>    <dbl>    <dbl>
+1 Top         10     0.556 0.0997 0.0315    0.485    0.628
+2 Middle      10     0.567 0.114  0.0360    0.485    0.648
+3 Bottom      10     0.636 0.0979 0.0310    0.566    0.706

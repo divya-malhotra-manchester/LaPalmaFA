@@ -1,0 +1,12 @@
+            Df  Sum Sq Mean Sq F value Pr(>F)
+Position     2 0.03787 0.01893   1.749  0.193
+Residuals   27 0.29222 0.01082               
+Tables of means
+Grand mean
+          
+0.5864444 
+
+ Position 
+Position
+   Top Middle Bottom 
+0.5563 0.5667 0.6363 
