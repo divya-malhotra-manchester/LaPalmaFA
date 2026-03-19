@@ -58,7 +58,7 @@ install.packages(c("geomorph", "tidyverse", "Hmisc"))
 - **Species:** *Ageratina adenophora* (Sprengel) King & Robinson
 - **Sites:** 7 sites along Barranco de las Angustias (Sites 3, 5, 6, 8, 9, 10, 11)
 - **Sample:** 10 plants, 30 leaves, 60 total observations (2 digitising replicates)
-- **Canopy positions sampled:** Top, Middle, Bottom
+- **Canopy positions sampled:** Top, Middle, Bottom identified as a, b, and c respectively, for example, 2c would be Leaf 2, Bottom leaf
 - **Dates:** 31st January – 2nd February 2026
 
 ---
