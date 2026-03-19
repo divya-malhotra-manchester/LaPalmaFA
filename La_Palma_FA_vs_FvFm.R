@@ -1,6 +1,6 @@
 ###############################################################################
 # PROJECT: LaPalmaFA
-# DESCRIPTION:Developmental Instability vs Physiological Stress
+# DESCRIPTION: Developmental Instability vs Physiological Stress
 # AUTHOR: Divya Malhotra
 ###############################################################################
 
