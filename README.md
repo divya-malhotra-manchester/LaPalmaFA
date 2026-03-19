@@ -25,7 +25,6 @@ This repository contains all data, analysis scripts, and statistical outputs for
 | `FvFm_Position_ANOVA.txt` | One-way ANOVA: Fv/Fm by canopy position |
 | `FvFm_Position_Summary.txt` | Fv/Fm means, SD, SE, and 95% CI by position |
 | `FA_Position_Summary.txt` | FA means, SD, SE, and 95% CI by position |
-| `Symmetry_ANOVA_Results.txt` | Procrustes ANOVA output from geomorph |
 | `Report_Final_Visuals.pdf` | Interaction plot and asymmetry shape components |
 | `Final_Analysis_Plots.pdf` | Fv/Fm and FA by canopy position bar charts |
 
